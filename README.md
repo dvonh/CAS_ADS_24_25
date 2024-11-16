@@ -3,6 +3,6 @@ With the explosion of data in science, economics, administration, medicine and m
 It is the scientific methods and processes of extracting knowledge and insights from data. 
 In light of this, the University of Bern offers a Certificate of Advanced Studies (CAS) program in Applied Data Science.
 
-This Repository contains all relevant informations and documents concerning the CAS.
+This repository contains all relevant informations and documents concerning the CAS.
 
 
